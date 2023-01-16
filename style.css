@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+background-image: linear-gradient(to right top, #d46cde, #ff60a9, #ff7f66, #ffb71f, #d8eb12);
+display: flex;
+height: 100vh;
+justify-content: center;
+align-items: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: 400;
+text-transform: capitalize;
+font-size: 3em;
+color: #fff;
+}
